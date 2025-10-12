@@ -1,7 +1,9 @@
 /*
 Comments:
 
+
 */
+
 
 *{
 		margin: 0;
@@ -34,4 +36,5 @@ Comments:
 .swiper .swiper-pagination-bullet-active{
 	background: #fff;
 }
+
 
